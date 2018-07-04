@@ -1,0 +1,297 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:2:1-56:12
+MERGED from [org.alfonz:alfonz-adapter:0.9.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/alfonz-adapter-0.9.0.aar/dabc446aec7bf0b05661fc31885e293a/AndroidManifest.xml:2:1-11:12
+MERGED from [org.alfonz:alfonz-arch:0.9.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/alfonz-arch-0.9.0.aar/6b2b2f5ed97ce5d93c693ae7a0f4e027/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.databinding:adapters:3.1.3] /home/lemz/.gradle/caches/transforms-1/files-1.1/adapters-3.1.3.aar/6b86fe87d2feeb032455f83f216c8aba/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.1.3] /home/lemz/.gradle/caches/transforms-1/files-1.1/library-3.1.3.aar/6c1d6a65c5fe94b7a7f1bb960f2e7ba3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:17:1-61:12
+MERGED from [org.alfonz:alfonz-utility:0.9.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/alfonz-utility-0.9.0.aar/7ee53ffa59aacc6776ec0e276a5ccc4c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b9bb8884f0125b3264720849eb25e7c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/3a10a74a45b98832fef54814102d2eba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a0bdb54a87b88795dd6d0db952c8289/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f441654f0af521b468e9b054e43092ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/798d0e2a7ed0730d8894f56041c0e3be/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/fa02e56035e571a0ef7a79619d5d008b/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bf153b17343d47ce1858ffe1bc5505b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/fb4483e8870adbd46bb09b8ae77f240d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ba5d7aee7272516f83d3d868684ff93e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/816dfa200b30bfc3066c8de6918c1a7c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/ac36e250ca880d682c42abec4b7b64ea/AndroidManifest.xml:17:1-22:12
+MERGED from [org.alfonz:alfonz-rest:0.9.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/alfonz-rest-0.9.0.aar/77e18b18a17640acc104721427f937d2/AndroidManifest.xml:2:1-11:12
+MERGED from [org.alfonz:alfonz-rx:0.9.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/alfonz-rx-0.9.0.aar/f99780bf24eed67e6f25f77b0d345ae2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9c480fa72ca422a5565ce1223981d505/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/97fdcfa8bf74c59051e8c0ca807adf53/AndroidManifest.xml:17:1-22:12
+MERGED from [org.alfonz:alfonz-graphics:0.9.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/alfonz-graphics-0.9.0.aar/a2d781220268fe807e90f327d4f00fae/AndroidManifest.xml:2:1-11:12
+MERGED from [org.alfonz:alfonz-view:0.9.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/alfonz-view-0.9.0.aar/a6e47f4fa05112a0635cb85c769352a6/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7170a78685dc4755d3f2ad256e8f5895/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f317f447680d547e38e85948e1883be3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/36c2c797ae4ea5d6fa615393e635e75c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/23cf88984136f48ec10e8e745dd49350/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c7e1e00f8c31bfdbbbf90c2921ddb2a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/lemz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/ce2b8c35b66e6a9094c31354d4030b6e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.5.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.5.0.aar/dec4ebef00dd2e65fa7ca75cc88682d8/AndroidManifest.xml:2:1-16:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /home/lemz/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/d0a4eaca888da2cec889d5c87dd392cf/AndroidManifest.xml:15:1-21:12
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-analyzer-1.5.4.aar/774bd1046c603a1bb36627b29d35a898/AndroidManifest.xml:17:1-25:12
+INJECTED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:5:5-46
+		INJECTED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:2:1-56:12
+		INJECTED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:3:5-63
+	android:installLocation
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:4:5-35
+uses-permission#android.permission.INTERNET
+ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:9:5-81
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:24:5-81
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:10:5-79
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:23:5-80
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:12:22-77
+application
+ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:15:5-55:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:26:5-59:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:26:5-59:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/fa02e56035e571a0ef7a79619d5d008b/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/fa02e56035e571a0ef7a79619d5d008b/AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/lemz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/ce2b8c35b66e6a9094c31354d4030b6e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/lemz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/ce2b8c35b66e6a9094c31354d4030b6e/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.5.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.5.0.aar/dec4ebef00dd2e65fa7ca75cc88682d8/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.5.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.5.0.aar/dec4ebef00dd2e65fa7ca75cc88682d8/AndroidManifest.xml:10:5-14:19
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-analyzer-1.5.4.aar/774bd1046c603a1bb36627b29d35a898/AndroidManifest.xml:23:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-analyzer-1.5.4.aar/774bd1046c603a1bb36627b29d35a898/AndroidManifest.xml:23:5-20
+	android:supportsRtl
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:18:9-41
+	android:hardwareAccelerated
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:20:9-43
+	android:icon
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:19:9-50
+	android:name
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:16:9-42
+activity#com.flexifinance.app.sim_loader.activity.StockListActivity
+ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:24:9-32:20
+	android:label
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:26:13-45
+	android:launchMode
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:27:13-42
+	android:name
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:25:13-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:30:27-74
+activity#com.flexifinance.app.sim_loader.activity.StockDetailActivity
+ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:34:9-39:20
+	android:parentActivityName
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:38:13-69
+	android:label
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:36:13-55
+	android:launchMode
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:37:13-42
+	android:name
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:35:13-57
+activity#com.flexifinance.app.sim_loader.activity.HelloWorldActivity
+ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:41:9-46:20
+	android:parentActivityName
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:45:13-69
+	android:label
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:43:13-54
+	android:launchMode
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:44:13-42
+	android:name
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:42:13-56
+activity#com.flexifinance.app.sim_loader.activity.StockPagerActivity
+ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:48:9-53:20
+	android:parentActivityName
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:52:13-69
+	android:label
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:50:13-54
+	android:launchMode
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:51:13-42
+	android:name
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml:49:13-56
+uses-sdk
+INJECTED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml
+INJECTED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml
+MERGED from [org.alfonz:alfonz-adapter:0.9.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/alfonz-adapter-0.9.0.aar/dabc446aec7bf0b05661fc31885e293a/AndroidManifest.xml:7:5-9:41
+MERGED from [org.alfonz:alfonz-adapter:0.9.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/alfonz-adapter-0.9.0.aar/dabc446aec7bf0b05661fc31885e293a/AndroidManifest.xml:7:5-9:41
+MERGED from [org.alfonz:alfonz-arch:0.9.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/alfonz-arch-0.9.0.aar/6b2b2f5ed97ce5d93c693ae7a0f4e027/AndroidManifest.xml:7:5-9:41
+MERGED from [org.alfonz:alfonz-arch:0.9.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/alfonz-arch-0.9.0.aar/6b2b2f5ed97ce5d93c693ae7a0f4e027/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.databinding:adapters:3.1.3] /home/lemz/.gradle/caches/transforms-1/files-1.1/adapters-3.1.3.aar/6b86fe87d2feeb032455f83f216c8aba/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.1.3] /home/lemz/.gradle/caches/transforms-1/files-1.1/adapters-3.1.3.aar/6b86fe87d2feeb032455f83f216c8aba/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.3] /home/lemz/.gradle/caches/transforms-1/files-1.1/library-3.1.3.aar/6c1d6a65c5fe94b7a7f1bb960f2e7ba3/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.3] /home/lemz/.gradle/caches/transforms-1/files-1.1/library-3.1.3.aar/6c1d6a65c5fe94b7a7f1bb960f2e7ba3/AndroidManifest.xml:22:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:20:5-44
+MERGED from [org.alfonz:alfonz-utility:0.9.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/alfonz-utility-0.9.0.aar/7ee53ffa59aacc6776ec0e276a5ccc4c/AndroidManifest.xml:7:5-9:41
+MERGED from [org.alfonz:alfonz-utility:0.9.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/alfonz-utility-0.9.0.aar/7ee53ffa59aacc6776ec0e276a5ccc4c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b9bb8884f0125b3264720849eb25e7c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b9bb8884f0125b3264720849eb25e7c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/3a10a74a45b98832fef54814102d2eba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/3a10a74a45b98832fef54814102d2eba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a0bdb54a87b88795dd6d0db952c8289/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a0bdb54a87b88795dd6d0db952c8289/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f441654f0af521b468e9b054e43092ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f441654f0af521b468e9b054e43092ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/798d0e2a7ed0730d8894f56041c0e3be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/798d0e2a7ed0730d8894f56041c0e3be/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/fa02e56035e571a0ef7a79619d5d008b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/fa02e56035e571a0ef7a79619d5d008b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bf153b17343d47ce1858ffe1bc5505b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bf153b17343d47ce1858ffe1bc5505b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/fb4483e8870adbd46bb09b8ae77f240d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/fb4483e8870adbd46bb09b8ae77f240d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ba5d7aee7272516f83d3d868684ff93e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ba5d7aee7272516f83d3d868684ff93e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/816dfa200b30bfc3066c8de6918c1a7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/816dfa200b30bfc3066c8de6918c1a7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/ac36e250ca880d682c42abec4b7b64ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/ac36e250ca880d682c42abec4b7b64ea/AndroidManifest.xml:20:5-44
+MERGED from [org.alfonz:alfonz-rest:0.9.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/alfonz-rest-0.9.0.aar/77e18b18a17640acc104721427f937d2/AndroidManifest.xml:7:5-9:41
+MERGED from [org.alfonz:alfonz-rest:0.9.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/alfonz-rest-0.9.0.aar/77e18b18a17640acc104721427f937d2/AndroidManifest.xml:7:5-9:41
+MERGED from [org.alfonz:alfonz-rx:0.9.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/alfonz-rx-0.9.0.aar/f99780bf24eed67e6f25f77b0d345ae2/AndroidManifest.xml:7:5-9:41
+MERGED from [org.alfonz:alfonz-rx:0.9.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/alfonz-rx-0.9.0.aar/f99780bf24eed67e6f25f77b0d345ae2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9c480fa72ca422a5565ce1223981d505/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9c480fa72ca422a5565ce1223981d505/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/97fdcfa8bf74c59051e8c0ca807adf53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/97fdcfa8bf74c59051e8c0ca807adf53/AndroidManifest.xml:20:5-44
+MERGED from [org.alfonz:alfonz-graphics:0.9.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/alfonz-graphics-0.9.0.aar/a2d781220268fe807e90f327d4f00fae/AndroidManifest.xml:7:5-9:41
+MERGED from [org.alfonz:alfonz-graphics:0.9.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/alfonz-graphics-0.9.0.aar/a2d781220268fe807e90f327d4f00fae/AndroidManifest.xml:7:5-9:41
+MERGED from [org.alfonz:alfonz-view:0.9.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/alfonz-view-0.9.0.aar/a6e47f4fa05112a0635cb85c769352a6/AndroidManifest.xml:7:5-9:41
+MERGED from [org.alfonz:alfonz-view:0.9.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/alfonz-view-0.9.0.aar/a6e47f4fa05112a0635cb85c769352a6/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7170a78685dc4755d3f2ad256e8f5895/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7170a78685dc4755d3f2ad256e8f5895/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f317f447680d547e38e85948e1883be3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f317f447680d547e38e85948e1883be3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/36c2c797ae4ea5d6fa615393e635e75c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/36c2c797ae4ea5d6fa615393e635e75c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/23cf88984136f48ec10e8e745dd49350/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/23cf88984136f48ec10e8e745dd49350/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c7e1e00f8c31bfdbbbf90c2921ddb2a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c7e1e00f8c31bfdbbbf90c2921ddb2a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/lemz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/ce2b8c35b66e6a9094c31354d4030b6e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/lemz/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/ce2b8c35b66e6a9094c31354d4030b6e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.5.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.5.0.aar/dec4ebef00dd2e65fa7ca75cc88682d8/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.5.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.5.0.aar/dec4ebef00dd2e65fa7ca75cc88682d8/AndroidManifest.xml:6:5-8:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /home/lemz/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/d0a4eaca888da2cec889d5c87dd392cf/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /home/lemz/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/d0a4eaca888da2cec889d5c87dd392cf/AndroidManifest.xml:19:5-43
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-analyzer-1.5.4.aar/774bd1046c603a1bb36627b29d35a898/AndroidManifest.xml:21:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-analyzer-1.5.4.aar/774bd1046c603a1bb36627b29d35a898/AndroidManifest.xml:21:5-44
+INJECTED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml
+INJECTED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml
+		ADDED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lemz/Documents/mobile_development/sim_loader/app/src/main/AndroidManifest.xml
+service#com.squareup.leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:27:9-30:45
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:30:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:28:13-80
+service#com.squareup.leakcanary.DisplayLeakService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:31:9-34:45
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:34:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:33:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:32:13-70
+activity#com.squareup.leakcanary.internal.DisplayLeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:36:9-49:20
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:41:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:38:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:40:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:39:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:43:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:42:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:37:13-80
+activity#com.squareup.leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:50:9-58:68
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:56:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:52:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:55:13-82
+	android:excludeFromRecents
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:53:13-46
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:54:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:58:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:57:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] /home/lemz/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.4.aar/da924daf91b171fc7a9170b4175082cf/AndroidManifest.xml:51:13-93
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/fa02e56035e571a0ef7a79619d5d008b/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/fa02e56035e571a0ef7a79619d5d008b/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/fa02e56035e571a0ef7a79619d5d008b/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/fa02e56035e571a0ef7a79619d5d008b/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/lemz/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/fa02e56035e571a0ef7a79619d5d008b/AndroidManifest.xml:24:13-83
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:1.5.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.5.0.aar/dec4ebef00dd2e65fa7ca75cc88682d8/AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:1.5.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.5.0.aar/dec4ebef00dd2e65fa7ca75cc88682d8/AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:1.5.0] /home/lemz/.gradle/caches/transforms-1/files-1.1/okhttp3-integration-1.5.0.aar/dec4ebef00dd2e65fa7ca75cc88682d8/AndroidManifest.xml:12:13-84

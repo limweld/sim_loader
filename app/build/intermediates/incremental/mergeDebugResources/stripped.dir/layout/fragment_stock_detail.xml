@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                           
+                                                     
+
+	
+           
+                                                                           
+           
+                                                                                              
+        
+
+	<org.alfonz.view.StatefulLayout
+		android:id="@+id/stock_detail_stateful_layout"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:animateLayoutChanges="true"
+		app:progressLayout="@layout/placeholder_progress"
+		app:offlineLayout="@layout/placeholder_offline"
+		app:emptyLayout="@layout/placeholder_empty"
+		                               android:tag="layout/fragment_stock_detail_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+		<ScrollView
+			android:id="@+id/container_content"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:fillViewport="true"
+			android:background="@color/global_bg_front" android:tag="binding_1">
+
+			<include
+				layout="@layout/fragment_stock_detail_fundaments"
+				                  
+				                             />
+
+		</ScrollView>
+	</org.alfonz.view.StatefulLayout>
+
+         

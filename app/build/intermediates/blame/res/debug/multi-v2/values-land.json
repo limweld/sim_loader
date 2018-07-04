@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/lemz/Documents/mobile_development/sim_loader/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/lemz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9a0bdb54a87b88795dd6d0db952c8289/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/home/lemz/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b9bb8884f0125b3264720849eb25e7c9/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                }
+            ]
+        }
+    ]
+}

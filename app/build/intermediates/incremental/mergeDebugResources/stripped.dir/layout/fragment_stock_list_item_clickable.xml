@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                           
+                                                     
+
+	
+           
+                                                                         
+           
+                                                                            
+        
+
+	<LinearLayout
+		android:id="@+id/stock_list_item"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:minHeight="@dimen/global_spacing_48"
+		android:gravity="center_vertical"
+		android:orientation="horizontal"
+		android:background="@drawable/selector_clickable_item_bg"
+		                                             
+		                                                      android:tag="layout/fragment_stock_list_item_clickable_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+		<TextView
+			android:id="@+id/stock_list_item_name"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="@dimen/global_keyline_16"
+			android:layout_marginRight="@dimen/global_keyline_16"
+			android:textAppearance="@style/TextAppearance.Stocks.Body1"
+			android:tag="binding_1"     />
+
+	</LinearLayout>
+
+         

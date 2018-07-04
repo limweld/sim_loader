@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/lemz/Documents/mobile_development/sim_loader/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_stock_list_item_clickable.xml",
+        "source": "/home/lemz/Documents/mobile_development/sim_loader/app/src/main/res/layout/fragment_stock_list_item_clickable.xml"
+    },
+    {
+        "merged": "/home/lemz/Documents/mobile_development/sim_loader/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_stock_list_footer.xml",
+        "source": "/home/lemz/Documents/mobile_development/sim_loader/app/src/main/res/layout/fragment_stock_list_footer.xml"
+    },
+    {
+        "merged": "/home/lemz/Documents/mobile_development/sim_loader/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_hello_world.xml",
+        "source": "/home/lemz/Documents/mobile_development/sim_loader/app/src/main/res/layout/fragment_hello_world.xml"
+    },
+    {
+        "merged": "/home/lemz/Documents/mobile_development/sim_loader/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_stock_pager_item.xml",
+        "source": "/home/lemz/Documents/mobile_development/sim_loader/app/src/main/res/layout/fragment_stock_pager_item.xml"
+    },
+    {
+        "merged": "/home/lemz/Documents/mobile_development/sim_loader/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_stock_list_header.xml",
+        "source": "/home/lemz/Documents/mobile_development/sim_loader/app/src/main/res/layout/fragment_stock_list_header.xml"
+    },
+    {
+        "merged": "/home/lemz/Documents/mobile_development/sim_loader/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_stock_detail_fundaments.xml",
+        "source": "/home/lemz/Documents/mobile_development/sim_loader/app/src/main/res/layout/fragment_stock_detail_fundaments.xml"
+    },
+    {
+        "merged": "/home/lemz/Documents/mobile_development/sim_loader/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_stock_detail.xml",
+        "source": "/home/lemz/Documents/mobile_development/sim_loader/app/src/main/res/layout/fragment_stock_detail.xml"
+    },
+    {
+        "merged": "/home/lemz/Documents/mobile_development/sim_loader/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_stock_list_item.xml",
+        "source": "/home/lemz/Documents/mobile_development/sim_loader/app/src/main/res/layout/fragment_stock_list_item.xml"
+    },
+    {
+        "merged": "/home/lemz/Documents/mobile_development/sim_loader/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_stock_pager.xml",
+        "source": "/home/lemz/Documents/mobile_development/sim_loader/app/src/main/res/layout/fragment_stock_pager.xml"
+    },
+    {
+        "merged": "/home/lemz/Documents/mobile_development/sim_loader/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_about.xml",
+        "source": "/home/lemz/Documents/mobile_development/sim_loader/app/src/main/res/layout/dialog_about.xml"
+    },
+    {
+        "merged": "/home/lemz/Documents/mobile_development/sim_loader/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_stock_list.xml",
+        "source": "/home/lemz/Documents/mobile_development/sim_loader/app/src/main/res/layout/fragment_stock_list.xml"
+    }
+]
