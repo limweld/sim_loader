@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.alfonz:alfonz-arch-0.9.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/alfonz-arch-0.9.0.aar/6b2b2f5ed97ce5d93c693ae7a0f4e027/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/alfonz-arch-0.9.0.aar/6b2b2f5ed97ce5d93c693ae7a0f4e027/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.alfonz/alfonz-arch/0.9.0/bb8f55d8b685a8e853516b8013516c50fc02a909/alfonz-arch-0.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

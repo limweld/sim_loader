@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.alfonz:alfonz-adapter-0.9.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/alfonz-adapter-0.9.0.aar/dabc446aec7bf0b05661fc31885e293a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/alfonz-adapter-0.9.0.aar/dabc446aec7bf0b05661fc31885e293a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.alfonz/alfonz-adapter/0.9.0/5441a3615fea0f51de128b64a26227ff24791fe5/alfonz-adapter-0.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
